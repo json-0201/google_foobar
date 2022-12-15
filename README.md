@@ -3,5 +3,5 @@
 <p align="center">
   <a href="https://foobar.withgoogle.com/">Google Foobar</a>
   <br>
-  Solution by json-0201
+  Solutions by json-0201
 </p>
